@@ -115,5 +115,7 @@ Giải thích: Cạnh (3,4) là cầu vì nó là cách duy nhất kết nối n
 - Visualization chỉ hoạt động tốt với đồ thị có ≤ 20 đỉnh
 
 ## Tác giả
-
+Sinh viên: Võ Huỳnh Kim Chi
+MSSV: 65130306
+Thời gian hoàn thành: Tháng 12/2025
 Phát triển bằng Python, NetworkX, Matplotlib, và Tkinter
